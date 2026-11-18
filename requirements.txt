@@ -1,0 +1,9 @@
+sqlalchemy>=2.0
+pymysql
+fastapi
+uvicorn
+faker
+email-validator
+
+# для старых файлов прошлой лабораторной (CRUD.py, fillDatabase.py):
+mysql-connector-python

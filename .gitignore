@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node / SvelteKit
+node_modules/
+frontend/build/
+frontend/.svelte-kit/
+
+# Qwen Code
+.qwen/
+
+# OS / IDE
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+*.log
